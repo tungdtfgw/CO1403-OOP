@@ -1,5 +1,5 @@
 products = ['Laptop', 'Monitor', 'Keyboard', 'Mouse']
-prices = [1000, 200, 50, 25]
+prices = [1000, 200, 50]
 
 def product_manager():
     while True:
