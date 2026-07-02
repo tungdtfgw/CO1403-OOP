@@ -24,4 +24,4 @@ class Shape(ABC):
         pass
 
     def __str__(self):
-        return f'{self.__shape_type} {self.__name} area {self.area} m2'
+        return f'{self.__shape_type} {self.__name} area {self.area:.2f} m2'
